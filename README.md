@@ -1,41 +1,39 @@
 # Hi, I'm Ilgın Tandoğan
 
-CTIS student focused on **DevOps & Cloud technologies**. I enjoy building reproducible infrastructure setups, automating workflows, and learning Kubernetes-based operations.
+CTIS student with a strong interest in **DevOps and Cloud technologies**.  
+I focus on understanding systems, infrastructure, and how applications run in real environments.
 
-## What I focus on
-- Kubernetes (k0s / k0sctl), Ingress, basic cluster operations
-- Docker & containerization
-- CI/CD with GitHub Actions
-- Linux fundamentals, networking basics, troubleshooting
+## About me
+- Computer Technologies and Information Systems (CTIS) student
+- Interested in DevOps, cloud infrastructure, and automation
+- Learning by building small projects, labs, and coursework-based implementations
+- Comfortable with Linux environments and troubleshooting basics
 
-## Featured projects
-- **K0s Cluster Setup (Single & Multi-Node)**  
-  Documentation + configuration examples (k0s / k0sctl), reset/backup notes, common issues & fixes.  
-  Repo: https://github.com/<username>/<repo-name>
+## What I am working on
+- Strengthening Linux and Git fundamentals
+- Containerization basics with Docker
+- Understanding Kubernetes concepts (nodes, pods, services, ingress)
+- CI/CD concepts and GitHub Actions (learning stage)
 
-- **Kubernetes Ingress (NGINX) Demo**  
-  Deploy a sample app, expose with Ingress, explain traffic flow and debugging steps.  
-  Repo: https://github.com/<username>/<repo-name>
+## Tech stack
+- **Languages:** Python, Java, Kotlin, SQL
+- **Tools:** Git, GitHub, Docker (basic)
+- **Systems:** Linux, virtual machines
+- **Concepts:** Networking basics, containers, cloud fundamentals
 
-- **CI/CD Starter (GitHub Actions)**  
-  Lint/test/build pipeline template for a simple app or container image.  
-  Repo: https://github.com/<username>/<repo-name>
+## Projects
+Most of my repositories include:
+- University projects
+- Learning-focused implementations
+- Experiments while exploring new tools and concepts
 
-## Tech
-**Core:** Linux • Git • Docker • Kubernetes  
-**CI/CD:** GitHub Actions  
-**Networking:** DNS • NAT basics • port/service debugging  
-**Cloud/Virtualization:** Proxmox / VMs (learning)
+(Selected projects will be added and documented as I continue building.)
 
-## Currently learning
-- Observability (logs/metrics), basic monitoring
-- Helm and packaging Kubernetes apps
-- Infrastructure-as-Code basics (Terraform)
+## Goals
+- Build well-documented DevOps-focused projects
+- Gain hands-on experience with Kubernetes and CI/CD pipelines
+- Prepare for internship and junior-level DevOps roles
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/<your-linkedin>/
-- GitHub: https://github.com/<username>
-- Email: <your-email>
-
----
-**Note:** Most repos include setup steps, troubleshooting notes, and what I learned.
+- GitHub: https://github.com/ilgintandogan
+- LinkedIn: https://www.linkedin.com/in/ilgintandogan
