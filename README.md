@@ -1,39 +1,61 @@
-# Hi, I'm Ilgın Tandoğan
+# Hi, I'm Ilgın Tandoğan 👋
 
-CTIS student with a strong interest in **DevOps and Cloud technologies**.  
-I focus on understanding systems, infrastructure, and how applications run in real environments.
+CTIS student interested in **DevOps, Cloud technologies, and Data & AI**.
 
-## About me
-- Computer Technologies and Information Systems (CTIS) student
-- Interested in DevOps, cloud infrastructure, and automation
-- Learning by building small projects, labs, and coursework-based implementations
-- Comfortable with Linux environments and troubleshooting basics
+I enjoy learning how applications and systems work beyond development — from infrastructure and deployment to automation, data, and machine learning workflows.
 
-## What I am working on
-- Strengthening Linux and Git fundamentals
-- Containerization basics with Docker
-- Understanding Kubernetes concepts (nodes, pods, services, ingress)
-- CI/CD concepts and GitHub Actions (learning stage)
+## About Me
 
-## Tech stack
-- **Languages:** Python, Java, Kotlin, SQL
-- **Tools:** Git, GitHub, Docker (basic)
-- **Systems:** Linux, virtual machines
-- **Concepts:** Networking basics, containers, cloud fundamentals
+* Computer Technologies and Information Systems (CTIS) student at Bilkent University
+* Interested in DevOps, cloud infrastructure, automation, and Data & AI
+* Learning through internships, university projects, labs, and personal experiments
+* Comfortable working with Linux environments, Git, and terminal-based workflows
+* Currently exploring how software, infrastructure, and data systems connect in real-world projects
+
+## What I'm Working On
+
+* Improving my Linux, Git, and system administration skills
+* Building a stronger understanding of Docker and containerization
+* Practicing Kubernetes concepts and cluster environments
+* Learning more about CI/CD and automation workflows
+* Exploring time-series forecasting, machine learning, and data analysis
+* Improving my understanding of clean, modular, and maintainable software design
+
+## Tech Stack
+
+**Languages:**
+Python, Java, Kotlin, SQL
+
+**DevOps & Infrastructure:**
+Linux, Git, GitHub, Docker, Kubernetes, Virtual Machines
+
+**Data & AI:**
+Pandas, Data Analysis, Machine Learning Fundamentals, Time Series Forecasting
+
+**Currently Learning:**
+CI/CD, Cloud Infrastructure, MLOps concepts, Automation
 
 ## Projects
-Most of my repositories include:
-- University projects
-- Learning-focused implementations
-- Experiments while exploring new tools and concepts
 
-(Selected projects will be added and documented as I continue building.)
+My repositories mainly include:
+
+* University projects
+* DevOps and infrastructure exercises
+* Data analysis and machine learning experiments
+* Android development projects
+* Learning-focused implementations while exploring new technologies
+
+I am gradually improving selected projects with clearer documentation and more structured implementations.
 
 ## Goals
-- Build well-documented DevOps-focused projects
-- Gain hands-on experience with Kubernetes and CI/CD pipelines
-- Prepare for internship and junior-level DevOps roles
+
+* Strengthen my DevOps and cloud engineering skills
+* Gain more hands-on experience with Kubernetes and automation
+* Improve my understanding of Data & AI systems
+* Learn how development, infrastructure, and machine learning workflows come together
+* Build well-documented and practical projects
 
 ## Contact
-- GitHub: https://github.com/ilgintandogan
-- LinkedIn: https://www.linkedin.com/in/ilgintandogan
+
+* GitHub: https://github.com/ilgintandogan
+* LinkedIn: https://www.linkedin.com/in/ilgintandogan
